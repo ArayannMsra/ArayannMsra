@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArayannMsra
+- 👋 Hi, I’m @Narayan Mishra
 - 👀 I’m interested in software engineering and electrical engineering with math
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software learning person and coding in Python, C++, Java, JavaScript and SQL
